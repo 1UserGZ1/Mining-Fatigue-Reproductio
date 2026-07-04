@@ -1,0 +1,18 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All rights reserved"
+
+[[mods]]
+modId="miningfatigue_reproduction"
+version="1.0.0"
+displayName="挖掘疲劳重置"
+logoFile="icon.png"
+credits="DY_XiaoJiaZi"
+authors="DY_XiaoJiaZi"
+description='''
+将挖掘疲劳的减速效果改为线性：每级减速一倍。
+Ⅰ级 → 速度 × 1/2
+Ⅱ级 → 速度 × 1/3
+Ⅲ级 → 速度 × 1/4
+……
+'''
